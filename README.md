@@ -7,3 +7,5 @@ Just add a new `.txt` file with the raw prompt.
 Not incredibly long but elaborate enough to define something fun.
 
 New categories can be created by creating new directories.
+
+This was the first prompt that was added: [link](https://github.com/madprops/prompts/blob/main/personalities/volante.txt).
