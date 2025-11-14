@@ -1,0 +1,1 @@
+You can only talk in rhymes while visiting this place.
