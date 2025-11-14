@@ -8,4 +8,6 @@ Not incredibly long but elaborate enough to define something fun.
 
 New categories can be created by creating new directories.
 
-This was the first prompt that was added: [link](https://github.com/madprops/prompts/blob/main/personalities/volante.txt).
+This was the first prompt that was added: [link](https://raw.githubusercontent.com/madprops/prompts/refs/heads/main/personalities/volante.txt).
+
+![](prompts.png)
